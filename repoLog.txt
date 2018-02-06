@@ -1,0 +1,60 @@
+commit 04c06995d8b96216afba3a8031d39f8bff27de95
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 18:24:11 2018 -0500
+
+    Added a git .ignore
+
+commit 9ca9085ace81f52172f62ed746cfb966b90ac15e
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 18:14:03 2018 -0500
+
+    Added .gitignore files
+
+commit 71812a4cacd457ca1ad790a6ba022a608b7f7af2
+Merge: 9ea809f fd03f1c
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 17:53:42 2018 -0500
+
+    Merge branch 'master' of https://github.com/masterrom/LinuxWorkbench
+
+commit 9ea809ff0d084854f2485d2087c4c2df433378bf
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 17:52:43 2018 -0500
+
+    Adding both files
+
+commit fd03f1c47b007604c276900e3c4b2e1b35899a9a
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 17:50:07 2018 -0500
+
+    Adding only one file
+
+commit 8ee8a11e3e10f61846925f61cbbf9b581aec3225
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Tue Feb 6 17:47:17 2018 -0500
+
+    Finished week 3
+
+commit d2bc56409bbe547663393790ccea2009a9ba0397
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Mon Feb 5 12:32:52 2018 -0500
+
+    Finished function excercises
+
+commit 131adaa8e0ebf5f8546b6eb1275a626423cf9cfc
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Mon Feb 5 00:42:34 2018 -0500
+
+    Functions part 1
+
+commit e113512dcb6106f7992fe1dc5ac9b2ae7c15f798
+Author: Abdulwasay <abdulwasay_mehar@live.com>
+Date:   Mon Feb 5 00:17:12 2018 -0500
+
+    added linux certification files
+
+commit eaf69fe459e02407c7664a8e9ad35036a1256359
+Author: masterrom <abdulwasay_mehar@live.com>
+Date:   Sun Feb 4 23:58:15 2018 -0500
+
+    Initial commit

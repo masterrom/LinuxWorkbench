@@ -1,1 +1,2 @@
 Adding a line from master branch
+Added line from the first branch
